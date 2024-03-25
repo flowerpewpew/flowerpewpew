@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm flowerpew
 
-## World of Warcraft damage meter
-You can find the repository here:
 
-https://github.com/flowerpewpew/wowcombatlogparser
 <!--
 **flowerpewpew/flowerpewpew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
